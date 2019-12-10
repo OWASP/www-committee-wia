@@ -1,14 +1,17 @@
 ---
 
 layout: col-sidebar
-title: OWASP [GROUPNAME]
-tags: example-tag
+title: OWASP [Women in AppSec Committee]
+tags: diversity
 level: 4
 type: 
 
 ---
 
 <!-- rebuild 1 -->
+OWASP Women in AppSec (WIA) Committee
+[Mailing List](https://groups.google.com/a/owasp.org/forum/?hl=en#!forum/wia-committee) | [Meetup](https://www.meetup.com/womeninappsec) | [Twitter](https://twitter.com/OWASPWIA)
+
 This is an example of a Project or Chapter Page.  Please change these items to indicate the actual information you wish to present.  In addition to this information, the 'front-matter' above this text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
 
 layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
