@@ -6,4 +6,4 @@
 * [Andra Lezza](mailto://andra.lezza@owasp.org)
 * [Lauren Chiesa](mailto://lauren.chiesa@owasp.org)
 * [Katherine Cancelado](mailto://katherine.cancelado@owasp.org)
-* [Geeta Handa]
+* Geeta Handa
