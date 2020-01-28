@@ -1,17 +1,5 @@
-### [GROUPNAME] Information
-* [Flagship Project](#)
-* [Tool Project](#)
-* [Version 2.8.0](#)
-* [Builder](#)
-* [Breaker](#)
+### Committee Information
 
-### Downloads or Social Links
-* [Download](#)
+### Social Links
 * [Meetup](#)
-
-### Code Repository
-* [repo](#)
-
-### Change Log
-* [changes](#)
 
