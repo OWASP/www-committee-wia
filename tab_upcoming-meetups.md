@@ -9,6 +9,4 @@ tags: diversity
 
 
 ## Upcoming Meetups
-
-[OWASP WIA + InfoSec Girls NYC kick-off event](https://www.meetup.com/womeninappsec/events/266965314/)
 [OWASP WIA + InfoSec Girls NYC Introductory Workshop - February 13, 2020](https://www.meetup.com/womeninappsec/events/267940209/)
