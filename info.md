@@ -1,5 +1,5 @@
 ### Committee Information
 
 ### Social Links
-* [Meetup](#)
-* [Twitter](#)
+* [Meetup](#https://www.meetup.com/womeninappsec/)
+* [Twitter](#https://twitter.com/OWASPWIA)
