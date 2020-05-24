@@ -1,3 +1,9 @@
+title:  getting_involved
+displaytext:  Get Involved
+layout:  null
+order:  2
+tags:  diversity
+
 
 ## Individuals
 
