@@ -2,6 +2,7 @@
 title:  getting_involved
 displaytext:  Get Involved
 layout:  null
+tab: true
 order:  2
 tags:  diversity
 ---
