@@ -1,4 +1,13 @@
-Webinars
+---
+title:  meetups
+displaytext:  Meetups
+layout:  null
+tab:  true
+order:  3
+tags:  diversity
+---
+
+## Webinars
 * [OWASP WIA + InfoSec Girls Knowledge Exchange Webinar - August 2018](https://www.youtube.com/watch?v=3_xpiwbzl5Q)
 * [OWASP WIA + InfoSec Girls Knowledge Exchange Webinar - November 2018](https://www.youtube.com/watch?v=-ADbIcVcPE4)
 * [OWASP WIA + InfoSec Girls Knowledge Exchange Webinar - December 2018](https://www.youtube.com/watch?v=zu0GAqsJC-o)
@@ -8,5 +17,5 @@ Webinars
 * [OWASP WIA + InfoSec Girls Knowledge Exchange Webinar - April 2019](https://www.youtube.com/watch?v=LNT4y-4TkQo)
 
 
-In Person Events
+## In Person Events
 * [OWASP WIA + InfoSec Girls NYC kick-off event](https://www.meetup.com/womeninappsec/events/266965314/)
