@@ -16,7 +16,7 @@ Keep posted for details, in collaboration with the [OWASP Outreach Committee](ma
 
 ## [AppSec California 2020](https://2020.appseccalifornia.org/)
 
-+ Conference Organizers and Twitter handles:  @haral @RAGreenberg
++ Conference Organizers:  @haral @RAGreenberg @act1vand0 @jonathanmarcil
 
 [Diversity by Design Panel](https://youtube.com/)
 
