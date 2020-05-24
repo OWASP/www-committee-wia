@@ -18,4 +18,5 @@ tags:  diversity
 
 
 ## In Person Events
-* [OWASP WIA + InfoSec Girls NYC kick-off event](https://www.meetup.com/womeninappsec/events/266965314/)
+* [OWASP WIA / OWASP NYC Secure Code Warrior Tournament](https://www.meetup.com/womeninappsec/events/270795105/)
+* [OWASP WIA + InfoSec Girls NYC kick-off event](https://www.meetup.com/womeninappsec/events/266965314/) Aastha Sahni @aastha1891, Scott Miller @scottymiller9 and Zoe Braiterman @zbraiterman
