@@ -15,6 +15,8 @@ tags:  diversity
 * [International Women's Day CTF Webinar - 2019](https://www.youtube.com/watch?v=H5iYlHJhVOs)
 * [OWASP WIA + InfoSec Girls Knowledge Exchange Webinar - March 2019](https://www.youtube.com/watch?v=6RYiqTrc_M4)
 * [OWASP WIA + InfoSec Girls Knowledge Exchange Webinar - April 2019](https://www.youtube.com/watch?v=LNT4y-4TkQo)
+* [OWASP Projects Panel](https://www.youtube.com/watch?v=SYO5RGDj_qc&feature=youtu.be)
+  Panelists:  @KatyAnton @vanderaj @psiinon @manicode Elizabeth Frenz , moderator:  @zbraiterman
 
 
 ## In Person Events
