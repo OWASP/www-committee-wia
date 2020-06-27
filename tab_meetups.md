@@ -17,6 +17,7 @@ tags:  diversity
 * [OWASP WIA + InfoSec Girls Knowledge Exchange Webinar - April 2019](https://www.youtube.com/watch?v=LNT4y-4TkQo)
 * [OWASP Projects Panel](https://www.youtube.com/watch?v=SYO5RGDj_qc&feature=youtu.be)
   Panelists:  @KatyAnton @vanderaj @psiinon @manicode Elizabeth Frenz , moderator:  @zbraiterman
+* ["Sky's the Limit" with Marie McCarthy, Career Coach](https://www.youtube.com/watch?v=MTJLLvBzax4&feature=youtu.be)
 
 
 ## In Person Events
