@@ -18,6 +18,7 @@ tags:  diversity
 * [OWASP Projects Panel](https://www.youtube.com/watch?v=SYO5RGDj_qc&feature=youtu.be)
   Panelists:  @KatyAnton @vanderaj @psiinon @manicode Elizabeth Frenz , moderator:  @zbraiterman
 * ["Sky's the Limit" with Marie McCarthy, Career Coach](https://www.youtube.com/watch?v=MTJLLvBzax4&feature=youtu.be)
+* [AppSec Programs and Women's Support Networks, Minali Arora @AroraMinali](https://www.youtube.com/watch?v=u8n8UCgrCKc)
 
 
 ## In Person Events
