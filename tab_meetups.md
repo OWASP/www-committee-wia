@@ -19,12 +19,14 @@ tags:  diversity
   Panelists:  Katy Anton @KatyAnton Andrew van der Stock @vanderaj, Simon Bennetts @psiinon, Jim Manico @manicode, Elizabeth Frenz
   Moderator:  Zoe Braiterman @zbraiterman
 * ["Sky's the Limit" with Marie McCarthy, Career Coach](https://www.youtube.com/watch?v=MTJLLvBzax4&feature=youtu.be)
-* [AppSec Programs and Women's Support Networks, Minali Arora @AroraMinali](https://www.youtube.com/watch?v=u8n8UCgrCKc)
+* [AppSec Programs and Women's Support Networks](https://www.youtube.com/watch?v=u8n8UCgrCKc)
+  Speaker:  Minali Arora @AroraMinali
 * [OWASP Project Panel](https://www.youtube.com/watch?v=d96-HCrSh2M)
   Panelists:  Bjorn Kimminich @bkimmimich Spyros Gasterados @0xfde, Riccardo ten Cate @RiieCco, Glenn ten Cate @FooBar_testing_
   Moderator:  Zoe Braiterman @zbraiterman
   Technical Coordinator:  Katy Anton @KatyAnton
-* [Virtual Job Search and Cyber Threat Hunting, Deidre Diamond @DeidreDiamond and Aastha Sahni @aastha1891](https://www.youtube.com/watch?v=wYp-LZ2dLeg&t=361s)
+* [Virtual Job Search and Cyber Threat Hunting](https://www.youtube.com/watch?v=wYp-LZ2dLeg&t=361s)
+  Speakers:   Deidre Diamond @DeidreDiamond and Aastha Sahni @aastha1891
 
 
 ## In Person Events
