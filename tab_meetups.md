@@ -16,9 +16,15 @@ tags:  diversity
 * [OWASP WIA + InfoSec Girls Knowledge Exchange Webinar - March 2019](https://www.youtube.com/watch?v=6RYiqTrc_M4)
 * [OWASP WIA + InfoSec Girls Knowledge Exchange Webinar - April 2019](https://www.youtube.com/watch?v=LNT4y-4TkQo)
 * [OWASP Projects Panel](https://www.youtube.com/watch?v=SYO5RGDj_qc&feature=youtu.be)
-  Panelists:  @KatyAnton @vanderaj @psiinon @manicode Elizabeth Frenz , moderator:  @zbraiterman
+  Panelists:  Katy Anton @KatyAnton Andrew van der Stock @vanderaj, Simon Bennetts @psiinon, Jim Manico @manicode, Elizabeth Frenz
+  Moderator:  Zoe Braiterman @zbraiterman
 * ["Sky's the Limit" with Marie McCarthy, Career Coach](https://www.youtube.com/watch?v=MTJLLvBzax4&feature=youtu.be)
 * [AppSec Programs and Women's Support Networks, Minali Arora @AroraMinali](https://www.youtube.com/watch?v=u8n8UCgrCKc)
+* [OWASP Project Panel](https://www.youtube.com/watch?v=d96-HCrSh2M)
+  Panelists:  Bjorn Kimminich @bkimmimich Spyros Gasterados @0xfde, Riccardo ten Cate @RiieCco, Glenn ten Cate @FooBar_testing_
+  Moderator:  Zoe Braiterman @zbraiterman
+  Technical Coordinator:  Katy Anton @KatyAnton
+* [Virtual Job Search and Cyber Threat Hunting, Deidre Diamond @DeidreDiamond and Aastha Sahni @aastha1891](https://www.youtube.com/watch?v=wYp-LZ2dLeg&t=361s)
 
 
 ## In Person Events
