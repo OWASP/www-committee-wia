@@ -27,6 +27,7 @@ tags:  diversity
   Technical Coordinator:  Katy Anton @KatyAnton
 * [Virtual Job Search and Cyber Threat Hunting](https://www.youtube.com/watch?v=wYp-LZ2dLeg&t=361s)
   Speakers:   Deidre Diamond @DeidreDiamond and Aastha Sahni @aastha1891
+* [Cyber Criminology by Deveeshree Nayak and Coordinated Vulnerability Disclosure by Madinah S. Ali](https://www.youtube.com/watch?v=R2_TMLKHNME&feature=youtu.be)
 
 
 ## In Person Events
