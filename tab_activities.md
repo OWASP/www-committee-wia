@@ -8,7 +8,7 @@ tags: diversity
 ---
 
 
-## [Cybersecurity Awareness Month 2020 Hackathon](https://www.meetup.com/womeninappsec/events/273377970) led by Zoe Braiterman (@zbraiterman)
+## [Cybersecurity Awareness Month 2020 Hackathon](https://www.meetup.com/womeninappsec/events/273377970) led by Zoe Braiterman (@zbraiterman), Maria Possobom and Li-Ann Wong
 
 
 ## [DefCon 2020](https://owasp.org/www-staff/projects/202008-Defcon-28.html)
