@@ -28,6 +28,8 @@ led by Zoe Braiterman @zbraiterman, Maria Possobom and Li-Ann Wong
 [Solution by Dwaipayan Gupta @baps_55 and Suvidha Pankar](https://github.com/baps55/vmc-teleconf-app)
 
 
+
+
 ## [DefCon 2020](https://owasp.org/www-staff/projects/202008-Defcon-28.html)
 Keep posted for details, in collaboration with the [OWASP Outreach Committee](mailto:outreach@owasp.org)
 [Twitter](https://twitter.com/DefConOwasp)
