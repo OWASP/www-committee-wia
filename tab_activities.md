@@ -9,6 +9,7 @@ tags: diversity
 
 
 ## [Cybersecurity Awareness Month 2020 Hackathon](https://www.meetup.com/womeninappsec/events/273377970) 
+
 led by Zoe Braiterman @zbraiterman, Maria Possobom and Li-Ann Wong
 **Teleconference Systems Best Practices, by Li-Ann Wong**
 * Teleconference systems are not considered secure, and the following minimum security controls should be considered to prevent unauthorized disclosure of sensitive Company information: 
@@ -23,6 +24,7 @@ led by Zoe Braiterman @zbraiterman, Maria Possobom and Li-Ann Wong
 * System should be configured to provide an explicit indication of current participants and attendance list should be maintained and checked.
 * Obtain non-disclosure forms as necessary  
 * Distribute minutes securely
+
 [Solution by Dwaipayan Gupta @baps_55 and Suvidha Pankar](https://github.com/baps55/vmc-teleconf-app)
 
 
