@@ -10,6 +10,19 @@ tags: diversity
 
 ## [Cybersecurity Awareness Month 2020 Hackathon](https://www.meetup.com/womeninappsec/events/273377970) 
 led by Zoe Braiterman @zbraiterman, Maria Possobom and Li-Ann Wong
+**Teleconference Systems Best Practices, by Li-Ann Wong**
+* Teleconference systems are not considered secure, and the following minimum security controls should be considered to prevent unauthorized disclosure of sensitive Company information: 
+* Require passwords for access 
+* Announce arrival and departure of participants 
+* Monitor or record the conference
+* Organization should ensure an evaluated firewall in a gateway environment should use an evaluated video or voice-aware firewall of at least the same level of assurance to secure the information shared via video conferencing or IP telephony.
+* Organization must separate the video conference traffic from other data traffic either physically or logically
+* Organization should ensure an encrypted and non-replayable two-way authentication scheme should be used for call authentication and authorisation.
+* Organization personnel must not connect workstations to video conferencing units unless the workstation or the device uses VLANs or similar mechanisms to maintain separation between video conferencing and other data traffic.
+* Ensure all participants have a need to know 
+* System should be configured to provide an explicit indication of current participants and attendance list should be maintained and checked.
+* Obtain non-disclosure forms as necessary  
+* Distribute minutes securely
 [Solution by Dwaipayan Gupta @baps_55 and Suvidha Pankar](https://github.com/baps55/vmc-teleconf-app)
 
 
