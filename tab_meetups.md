@@ -29,6 +29,7 @@ tags:  diversity
   Speakers:   Deidre Diamond @DeidreDiamond and Aastha Sahni @aastha1891
 * [Cyber Criminology by Deveeshree Nayak and Coordinated Vulnerability Disclosure by Madinah S. Ali](https://www.youtube.com/watch?v=R2_TMLKHNME&feature=youtu.be)
 * [Cybersecurity for Critical Infrastructure by Mariah Possobom](https://www.youtube.com/watch?v=ph7Ehot8Xuo&feature=youtu.be)
+* [IAM - "What, Why, Where?", by Saman Fatima (@saman_3014)](https://www.youtube.com/watch?v=lxUkwmXI578&feature=youtu.be)
 
 
 ## In Person Events
