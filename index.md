@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: OWASP Women in AppSec (WIA) Committee
+title: OWASP WIA, Diversity and Inclusion Committee
 tags: diversity, wia
 level: 4
 type: 
