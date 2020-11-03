@@ -26,9 +26,11 @@ The value of diversity and inclusion also provides the OWASP community and appli
 
 The scope for OWASP WIA Committee falls into the following areas:
 
++ Build upon opportunities for and participating of underrepresented groups, including gender, sexual orientation, neurodiversity, physical limitations and racial minorities.
+
 + Attract women and underrepresented groups to OWASP, as active members, contributors and leaders.
 
-+ Offer opportunities for women and underrepresented groups to become engaged in AppSec and related professional communities.
++ Offer opportunities for women and underrepresented groups to become engaged in AppSec and related professional communities. 
 
 + Provide inclusive targeted application security programs for all women learners.
 
