@@ -5,8 +5,8 @@
 <br>
 **Committee Members**
 <br>
-* [Heba Farahat](mailto://heba.farahat@owasp.org)* 
-* [Jessica Robinson](mailto://jessica.robinson@owasp.org)
-* [Maria Mora - San Francisco](mailto://maria.mora@owasp.org)
-* [Vandana Verma - India](mailto://vandana.verma@owasp.org)
+<br>* [Heba Farahat](mailto://heba.farahat@owasp.org)* 
+<br>* [Jessica Robinson](mailto://jessica.robinson@owasp.org)
+<br>* [Maria Mora - San Francisco](mailto://maria.mora@owasp.org)
+<br>* [Vandana Verma - India](mailto://vandana.verma@owasp.org)
 
