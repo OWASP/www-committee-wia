@@ -3,6 +3,7 @@
 * [Loredana Mancini](mailto://loredana.mancini@owasp.org) - Vice Chair
 * [Andra Lezza](mailto://andra.lezza@owasp.org) - Secretary
 <br>
+<br>
 **Committee Members**
 <br>
 <br>* [Heba Farahat](mailto://heba.farahat@owasp.org)
