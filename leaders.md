@@ -5,6 +5,7 @@
 <br>
 <br>
 **Committee Members**
+<br>[Aastha Sahni](mailto://aastha.sahni@owasp.org)
 <br>[Heba Farahat](mailto://heba.farahat@owasp.org)
 <br>[Jessica Robinson](mailto://jessica.robinson@owasp.org) - New York
 <br>[Maria Mora](mailto://maria.mora@owasp.org) - San Francisco
