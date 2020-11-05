@@ -8,7 +8,7 @@
 <br>[Aastha Sahni](mailto://aastha.sahni@owasp.org)
 <br>[Heba Farahat](mailto://heba.farahat@owasp.org)
 <br>[Jessica Robinson](mailto://jessica.robinson@owasp.org) - New York
-<br>[Liza Roberts]{mailto://liza.roberts@owasp.org) - San Francisco, CA
+<br>[Liza Roberts](mailto://liza.roberts@owasp.org) - San Francisco, CA
 <br>[Maria Mora](mailto://maria.mora@owasp.org) - San Francisco, CA
 <br>[Saman Fatima](mailto://saman.fatima@owasp.org) - New Delhi, India
 <br>[Vandana Verma](mailto://vandana.verma@owasp.org) - India
