@@ -1,8 +1,4 @@
-* Zoe Braiterman
-* Loredana Mancini
-* Andra Lezza
-* Vandana Verma
-* Katy Anton
-* Maria Mora
-* Aastha Sahni
-* Saman Fatima
+* Sharon Parker
+* Mariah Possobom
+* Li-Ann Wong
+* Luz del Alba Tawiah
