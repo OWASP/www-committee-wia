@@ -32,7 +32,7 @@ tags:  diversity
 * [IAM - "What, Why, Where?", by Saman Fatima (@saman_3014)](https://www.youtube.com/watch?v=lxUkwmXI578&feature=youtu.be)
 * ["How to Overcome Shyness", by Marie McCarthy](https://www.youtube.com/watch?v=AAwmyQpbh44&t=151s)
 * [PCI-DSS Requirements, by Aastha Sahni @aastha1891 and Saman Fatima @saman_3014](https://www.youtube.com/watch?v=pd8-jMSh-uk&t=139s)
-  An introduction to a 2-week long remote "Secure Transaction Hackathon", led by Zoe Braiterman @zbraiterman
+  An introduction to a 2-week long remote ["Secure Transaction Hackathon"](https://www.meetup.com/womeninappsec/events/274279132/), led by Zoe Braiterman @zbraiterman
 
 
 ## In Person Events
