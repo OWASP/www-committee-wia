@@ -7,6 +7,11 @@ order: 1
 tags: diversity
 ---
 
+## [Secure Transactin Hackathon](https://www.meetup.com/womeninappsec/events/274279132/)
+
+led by Zoe Braiterman @zbraiterman
+*[PCI-DSS Requirements session by Aastha Sahni @aastha1891 and Saman Fatima @saman_3014](https://www.youtube.com/watch?v=pd8-jMSh-uk&feature=youtu.be)
+
 
 ## [Cybersecurity Awareness Month 2020 Hackathon](https://www.meetup.com/womeninappsec/events/273377970) 
 
