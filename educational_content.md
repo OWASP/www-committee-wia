@@ -23,3 +23,7 @@ https://owasp.org/www-project-cheat-sheets/
 *[OWASP Spotlight - Project 6 - PyTM by Izar Tarandach @izar_t and Vandana Verma @InfosecVandana](https://www.youtube.com/watch?v=oTqkPaEbTnE&feature=youtu.be)
 
   [OWASP PyTM project page](https://owasp.org/www-project-pytm/)
+
+*["OWASP Spotlight - Project 7 - Security Knowledge Framework by Glenn ten Cate @FooBar_testing_ and Vandana Verma @InfosecVandana](https://www.youtube.com/watch?v=TFX_ZBy6lNY)
+
+  [OWASP SKF project page](https://owasp.org/www-project-security-knowledge-framework/)
