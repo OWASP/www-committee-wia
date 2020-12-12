@@ -33,6 +33,7 @@ tags:  diversity
 * ["How to Overcome Shyness", by Marie McCarthy](https://www.youtube.com/watch?v=AAwmyQpbh44&t=151s)
 * [PCI-DSS Requirements, by Aastha Sahni @aastha1891 and Saman Fatima @saman_3014](https://www.youtube.com/watch?v=pd8-jMSh-uk&t=139s)
   An introduction to a 2-week long remote ["Secure Transaction Hackathon"](https://www.meetup.com/womeninappsec/events/274279132/), led by Zoe Braiterman @zbraiterman
+* [Supply Chain / Vendor Management by Li-Ann Wong](https://www.youtube.com/watch?v=ZtwM-c5K6bc&feature=youtu.be)
 
 
 ## In Person Events
