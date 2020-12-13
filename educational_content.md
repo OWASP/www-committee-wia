@@ -27,3 +27,7 @@ https://owasp.org/www-project-cheat-sheets/
 *["OWASP Spotlight - Project 7 - Security Knowledge Framework by Glenn ten Cate @FooBar_testing_ and Vandana Verma @InfosecVandana](https://www.youtube.com/watch?v=TFX_ZBy6lNY)
 
   [OWASP SKF project page](https://owasp.org/www-project-security-knowledge-framework/)
+ 
+*["OWASP Spotlight - Project 8 - Proactive Controls by Katy Anton @KatyAnton and Vandana Verma @InfosecVandana](https://www.youtube.com/watch?app=desktop&v=HRtYDCWOSc0&feature=youtu.be)
+ 
+  [OWASP Proactive Controls project page](https://owasp.org/www-project-proactive-controls/)
