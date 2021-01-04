@@ -31,3 +31,7 @@ https://owasp.org/www-project-cheat-sheets/
 *["OWASP Spotlight - Project 8 - Proactive Controls by Katy Anton @KatyAnton and Vandana Verma @InfosecVandana](https://www.youtube.com/watch?app=desktop&v=HRtYDCWOSc0&feature=youtu.be)
  
   [OWASP Proactive Controls project page](https://owasp.org/www-project-proactive-controls/)
+  
+*["OWASP Spotlight - Project 9 - SAMM by Sebastien Deleersnyder @sebadele and Vandana Verma @InfosecVandana](https://www.youtube.com/watch?v=N0zcZnkH5Wg&feature=youtu.be)
+
+  [OWASP Software Assurance Maturity Model Project Page](https://owaspsamm.org)
