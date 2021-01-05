@@ -35,3 +35,7 @@ https://owasp.org/www-project-cheat-sheets/
 *["OWASP Spotlight - Project 9 - SAMM by Sebastien Deleersnyder @sebadele and Vandana Verma @InfosecVandana](https://www.youtube.com/watch?v=N0zcZnkH5Wg&feature=youtu.be)
 
   [OWASP Software Assurance Maturity Model Project Page](https://owaspsamm.org)
+  
+*["OWASP Spotlight - Project 10 - Top 10 by Andrew van der Stock @vanderaj and Vandana Verma @InfosecVandana](https://www.youtube.com/watch?v=RMkoIrpz8ug)
+
+  [OWASP Top 10 Project](https://owasp.org/www-project-top-ten/)
