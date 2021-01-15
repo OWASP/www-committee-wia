@@ -38,4 +38,9 @@ https://owasp.org/www-project-cheat-sheets/
   
 *["OWASP Spotlight - Project 10 - Top 10" by Andrew van der Stock @vanderaj and Vandana Verma @InfosecVandana](https://www.youtube.com/watch?v=RMkoIrpz8ug)
 
-  [OWASP Top 10 Project](https://owasp.org/www-project-top-ten/)
+  [OWASP Top 10 project page](https://owasp.org/www-project-top-ten/)
+
+
+* ["OWASP Spotlight - Project 11 - Nettacker" by Sam Stepanyan @securestep9 and Vandana Verma @InfosecVandana](https://www.youtube.com/watch?v=OGv7OtG127A)
+
+  [OWASP Nettacker project page](https://owasp.org/www-project-nettacker/)
