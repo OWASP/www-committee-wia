@@ -35,6 +35,7 @@ tags:  diversity
   An introduction to a 2-week long remote ["Secure Transaction Hackathon"](https://www.meetup.com/womeninappsec/events/274279132/), led by Zoe Braiterman @zbraiterman
 * [Supply Chain / Vendor Management by Li-Ann Wong](https://www.youtube.com/watch?v=ZtwM-c5K6bc&feature=youtu.be)
 * [How to Build Self-Confidence by Marie McCarthy](https://www.youtube.com/watch?v=bCNpaejwdWM&t=6s)
+* [Blockchain by Cristina Baldi and DOM-Based XSS by Shrutirupa Banerjiee @freak_crypt](https://www.youtube.com/watch?v=DYl7p_km0ws)
 
 
 ## In Person Events
