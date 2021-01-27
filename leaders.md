@@ -16,7 +16,7 @@
 <br>[Vandana Verma](mailto://vandana.verma@owasp.org) - India
 <br>
 <br>**Staff Contact**
-<br>[Dawn Aitken](mailto://dawn.aitken@owasp.org)
+<br>[Dawn Aitken](mailto://dawn.aitken@owasp.com)
 <br>
 
 
