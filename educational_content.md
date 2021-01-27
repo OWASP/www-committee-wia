@@ -1,3 +1,5 @@
+* [An overview of OWASP, by Nancy Gariche](https://www.youtube.com/watch?v=dpaSbSvNJ4Y)
+
 *["OWASP Spotlight - Project 1 - Web Security Testing Guide", by Vandana Verma (@InfosecVandana)](https://infosecvandana.com/post/owstg/)
 
 
