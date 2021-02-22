@@ -8,6 +8,9 @@ tags:  diversity
 ---
 
 ## Webinars
+* [Password Innovation by Nehal Mehta @NehalMehta_rs and Dhaval Shah and Cybersecurity Career Transitions by Bishakha Jain @euphoricbint](https://www.meetup.com/womeninappsec/events/276446097/)
+
+
 * [OWASP WIA + InfoSec Girls Knowledge Exchange Webinar - August 2018](https://www.youtube.com/watch?v=3_xpiwbzl5Q)
 * [OWASP WIA + InfoSec Girls Knowledge Exchange Webinar - November 2018](https://www.youtube.com/watch?v=-ADbIcVcPE4)
 * [OWASP WIA + InfoSec Girls Knowledge Exchange Webinar - December 2018](https://www.youtube.com/watch?v=zu0GAqsJC-o)
