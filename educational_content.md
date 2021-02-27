@@ -1,4 +1,4 @@
-* [An overview of OWASP, by Nancy Gariche](https://www.youtube.com/watch?v=dpaSbSvNJ4Y)
+*[An overview of OWASP, by Nancy Gariche](https://www.youtube.com/watch?v=dpaSbSvNJ4Y)
 
 *["OWASP Spotlight - Project 1 - Web Security Testing Guide", by Vandana Verma (@InfosecVandana)](https://infosecvandana.com/post/owstg/)
 
@@ -43,6 +43,10 @@ https://owasp.org/www-project-cheat-sheets/
   [OWASP Top 10 project page](https://owasp.org/www-project-top-ten/)
 
 
-* ["OWASP Spotlight - Project 11 - Nettacker" by Sam Stepanyan @securestep9 and Vandana Verma @InfosecVandana](https://www.youtube.com/watch?v=OGv7OtG127A)
+*["OWASP Spotlight - Project 11 - Nettacker" by Sam Stepanyan @securestep9 and Vandana Verma @InfosecVandana](https://www.youtube.com/watch?v=OGv7OtG127A)
 
   [OWASP Nettacker project page](https://owasp.org/www-project-nettacker/)
+  
+*["OWASP Spotlight - Project 12 - Zed Attack Proxy" by Simon Bennetts @psiison and Vandana Verma @InfosecVandana](https://www.youtube.com/watch?v=usIlW8Q-hc4)
+
+  [OWASP ZAP project page](https://owasp.org/www-project-zap/)
