@@ -8,8 +8,6 @@ tags:  diversity
 ---
 
 ## Webinars
-* [Password Innovation by Nehal Mehta @NehalMehta_rs and Dhaval Shah and Cybersecurity Career Transitions by Bishakha Jain @euphoricbint](https://www.meetup.com/womeninappsec/events/276446097/)
-
 
 * [OWASP WIA + InfoSec Girls Knowledge Exchange Webinar - August 2018](https://www.youtube.com/watch?v=3_xpiwbzl5Q)
 * [OWASP WIA + InfoSec Girls Knowledge Exchange Webinar - November 2018](https://www.youtube.com/watch?v=-ADbIcVcPE4)
@@ -39,6 +37,9 @@ tags:  diversity
 * [Supply Chain / Vendor Management by Li-Ann Wong](https://www.youtube.com/watch?v=ZtwM-c5K6bc&feature=youtu.be)
 * [How to Build Self-Confidence by Marie McCarthy](https://www.youtube.com/watch?v=bCNpaejwdWM&t=6s)
 * [Blockchain by Cristina Baldi and DOM-Based XSS by Shrutirupa Banerjiee @freak_crypt](https://www.youtube.com/watch?v=DYl7p_km0ws)
+* [Password Innovation by Nehal Mehta @NehalMehta_rs and Dhaval Shah]
+* ["Charting Career Paths in Cybersecurity" by Bishakha Jain @euphoricbint](https://www.youtube.com/watch?v=iOoNokAozQ0)
+* ["Is Blockchain Really Secure?" by Shrutirupa Banerjiee](https://www.meetup.com/womeninappsec/events/276732919/)
 
 
 ## In Person Events
