@@ -6,6 +6,8 @@ tab: true
 order: 1
 tags: diversity
 ---
+## [Secure Social Media Platform](https://github.com/zbraiterman/secure-design-hackathons/blob/main/secure-social-media-platform.md)
+
 
 ## [Secure Transaction Hackathon](https://www.meetup.com/womeninappsec/events/274279132/)
 
