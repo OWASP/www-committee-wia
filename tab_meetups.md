@@ -40,6 +40,7 @@ tags:  diversity
 * [Password Innovation by Nehal Mehta @NehalMehta_rs and Dhaval Shah](https://www.youtube.com/watch?v=2GTr4eS142o&t=63s)
 * ["Charting Career Paths in Cybersecurity" by Bishakha Jain @euphoricbint](https://www.youtube.com/watch?v=iOoNokAozQ0)
 * ["Is Blockchain Really Secure?" by Shrutirupa Banerjiee @freak_crypt](https://www.youtube.com/watch?v=6-T05dQt0z8&t=1s)
+* ["'Security Through Clarity' and Why Programming Languages and Architecture Matter" by Francois-Rene Rideau @fare](https://www.meetup.com/womeninappsec/events/277055154)
 
 
 ## In Person Events
