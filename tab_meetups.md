@@ -42,6 +42,7 @@ tags:  diversity
 * ["Is Blockchain Really Secure?" by Shrutirupa Banerjiee @freak_crypt](https://www.youtube.com/watch?v=6-T05dQt0z8&t=1s)
 * ["Do certain types of developers or teams write more secure code?" by Anita D'Amico @AnitaDamico](https://www.meetup.com/womeninappsec/events/277133252)
 * ["'Security Through Clarity' and Why Programming Languages and Architecture Matter" by Francois-Rene Rideau @phanero](https://www.meetup.com/womeninappsec/events/277055154)
+* [How to be inclusive for the deaf community by Kellina @cutiekellina and Introduction to Penetration Testing, OSINT and diversity and Inclusiong cybersecurity teas by Deveeshree](https://www.meetup.com/womeninappsec/events/277188366/)
 
 
 ## In Person Events
