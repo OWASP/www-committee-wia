@@ -42,7 +42,6 @@ https://owasp.org/www-project-cheat-sheets/
 
   [OWASP Top 10 project page](https://owasp.org/www-project-top-ten/)
 
-
 *["OWASP Spotlight - Project 11 - Nettacker" by Sam Stepanyan @securestep9 and Vandana Verma @InfosecVandana](https://www.youtube.com/watch?v=OGv7OtG127A)
 
   [OWASP Nettacker project page](https://owasp.org/www-project-nettacker/)
@@ -50,3 +49,6 @@ https://owasp.org/www-project-cheat-sheets/
 *["OWASP Spotlight - Project 12 - Zed Attack Proxy" by Simon Bennetts @psiison and Vandana Verma @InfosecVandana](https://www.youtube.com/watch?v=usIlW8Q-hc4)
 
   [OWASP ZAP project page](https://owasp.org/www-project-zap/)
+  
+*["OWASP Spotlight - Project 13 - Mobile Security Testing Guide" by Vandana Verma](https://www.youtube.com/watch?v=b07OQd5KSrs)
+  [OWASP Mobile Security Testing Guide project page](https://owasp.org/www-project-mobile-security-testing-guide/)
