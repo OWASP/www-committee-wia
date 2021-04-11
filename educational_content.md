@@ -50,5 +50,10 @@ https://owasp.org/www-project-cheat-sheets/
 
   [OWASP ZAP project page](https://owasp.org/www-project-zap/)
   
-*["OWASP Spotlight - Project 13 - Mobile Security Testing Guide" by Vandana Verma](https://www.youtube.com/watch?v=b07OQd5KSrs)
+*["OWASP Spotlight - Project 13 - Mobile Security Testing Guide" by Vandana Verma @InfosecVandana](https://www.youtube.com/watch?v=b07OQd5KSrs)
+  
   [OWASP Mobile Security Testing Guide project page](https://owasp.org/www-project-mobile-security-testing-guide/)
+  
+*["OWASP Spotlight - Project 14 - Secure Coding Dojo" by Paul Ionescu @CloudSecPaul and Vandana Verma @InfosecVandana](https://www.youtube.com/watch?v=7nVkDkL9cyE)
+  
+  [OWASP Secure Coding Dojo project page](https://owasp.org/www-project-secure-coding-dojo/)
