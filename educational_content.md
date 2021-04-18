@@ -57,3 +57,7 @@ https://owasp.org/www-project-cheat-sheets/
 *["OWASP Spotlight - Project 14 - Secure Coding Dojo" by Paul Ionescu @CloudSecPaul and Vandana Verma @InfosecVandana](https://www.youtube.com/watch?v=7nVkDkL9cyE)
   
   [OWASP Secure Coding Dojo project page](https://owasp.org/www-project-secure-coding-dojo/)
+  
+*["OWASP Spotlight - Project 15 - Dependency Track](https://www.youtube.com/watch?v=irnZuLq4MDM by Steve Springett @stevespringett and Vandana Verma @InfosecVandana)
+
+  [OWASP Dependency Track project page](https://owasp.org/www-project-dependency-track/)
