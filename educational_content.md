@@ -58,6 +58,10 @@ https://owasp.org/www-project-cheat-sheets/
   
   [OWASP Secure Coding Dojo project page](https://owasp.org/www-project-secure-coding-dojo/)
   
-*["OWASP Spotlight - Project 15 - Dependency Track](https://www.youtube.com/watch?v=irnZuLq4MDM by Steve Springett @stevespringett and Vandana Verma @InfosecVandana)
+*["OWASP Spotlight - Project 15 - Dependency Track"](https://www.youtube.com/watch?v=irnZuLq4MDM by Steve Springett @stevespringett and Vandana Verma @InfosecVandana)
 
   [OWASP Dependency Track project page](https://owasp.org/www-project-dependency-track/)
+  
+*["OWASP Spotlight - Project 16 - Cornucopia" by Grant Ongers @rewtd, Vandana Verma @InfosecVandana and Colin Watson](https://www.youtube.com/watch?v=NesxjEGX58s)
+
+  [OWASP Cornucopia project page](https://owasp.org/www-project-cornucopia/)
