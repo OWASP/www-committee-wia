@@ -65,3 +65,7 @@ https://owasp.org/www-project-cheat-sheets/
 *["OWASP Spotlight - Project 16 - Cornucopia" by Grant Ongers @rewtd, Vandana Verma @InfosecVandana and Colin Watson](https://www.youtube.com/watch?v=NesxjEGX58s)
 
   [OWASP Cornucopia project page](https://owasp.org/www-project-cornucopia/)
+  
+*["OWASP Spotlight - Project 17 - Education and Training Committee" by Adrian Winckles @botflowking, Grant Ongers @rewtd and Vandana Verma @InfosecVandana](https://www.youtube.com/watch?v=N890Wz8poxg)
+
+  [OWASP Education and Training Committee page](https://owasp.org/www-committee-education-and-training/)
