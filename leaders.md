@@ -1,7 +1,7 @@
 ### Leaders
-* Chair - [Zoe Braiterman](mailto://zoe.braiterman@owasp.org) - New York
-* Vice Chair - [Loredana Mancini](mailto://loredana.mancini@owasp.org) - Italy
-* Secretary - [Andra Lezza](mailto://andra.lezza@owasp.org) - London
+* [Zoe Braiterman](mailto://zoe.braiterman@owasp.org) (Chair) - New York
+* [Loredana Mancini](mailto://loredana.mancini@owasp.org) (Vice Chair) - Italy
+* [Andra Lezza](mailto://andra.lezza@owasp.org) (Secretary) - London
 <br>
 <br>
 **Committee Members**
