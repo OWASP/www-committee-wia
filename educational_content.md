@@ -69,3 +69,7 @@ https://owasp.org/www-project-cheat-sheets/
 *["OWASP Spotlight - Project 17 - Education and Training Committee" by Adrian Winckles @botflowking, Grant Ongers @rewtd and Vandana Verma @InfosecVandana](https://www.youtube.com/watch?v=N890Wz8poxg)
 
   [OWASP Education and Training Committee page](https://owasp.org/www-committee-education-and-training/)
+  
+*["OWASP Spotlight - Project 18 - OWASP DSOMM" by Timo Pagel and Vandana Verma @InfosecVandana](https://www.youtube.com/watch?v=RBEqpqyqWZY)
+
+  [OWASP Devsecops Maturity Model Project page](https://owasp.org/www-project-devsecops-maturity-model/)
