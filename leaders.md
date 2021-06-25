@@ -7,7 +7,6 @@
 **Committee Members**
 <br>[Aastha Sahni](mailto://aastha.sahni@owasp.org) - New York
 <br>[Heba Farahat](mailto://heba.farahat@owasp.org) - Egypt
-<br>[Jessica Robinson](mailto://jessica.robinson@owasp.org) - New York
 <br>[Liza Roberts](mailto://liza.roberts@owasp.org) - San Francisco, CA
 <br>[Maria Mora](mailto://maria.mora@owasp.org) - San Francisco, CA
 <br>[Katy Anton](mailto://katy.anton@owasp.org) - Bristol, UK
