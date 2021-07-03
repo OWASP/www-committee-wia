@@ -43,6 +43,7 @@ tags:  diversity
 * ["Do certain types of developers or teams write more secure code?" by Anita D'Amico @AnitaDamico](https://www.youtube.com/watch?v=kNlwhqDhoCs)
 * ["'Security Through Clarity' and Why Programming Languages and Architecture Matter" by Francois-Rene Rideau @phanero @phanaero](https://www.youtube.com/watch?v=-17WrntpLEA)
 * [Sarba Roy @SarbaRoy_15, Bishakha Jain @euphoricbint and Gunjan Chhillar](https://www.meetup.com/womeninappsec/events/278457942/)
+* ["How to be inclusive for the deaf community" by Kellina @cutiekellina, "The five philosophies to building better logs" by Veronica @Po1Zon_P1x13, "Server-Side JavaScript Injection" by Kavisha and "The Path to Inherently Safer Technology" by Lesley](https://www.meetup.com/womeninappsec/events/278827165/?isFirstPublish=true)
 
 
 ## In Person Events
