@@ -73,3 +73,7 @@ https://owasp.org/www-project-cheat-sheets/
 *["OWASP Spotlight - Project 18 - OWASP DSOMM" by Timo Pagel and Vandana Verma @InfosecVandana](https://www.youtube.com/watch?v=RBEqpqyqWZY)
 
   [OWASP Devsecops Maturity Model Project page](https://owasp.org/www-project-devsecops-maturity-model/)
+
+*[“OWASP Spotlight - Project 19 - OWASP ASVS @OWASP_ASVS" by Daniel Cuthbert @dcuthbert and Vandana Verma @InfosecVandana](https://www.youtube.com/watch?v=3puIavsZfAk)
+
+  [OWASP Application Security Verification Standards Project page](https://owasp.org/www-project-application-security-verification-standard/)
