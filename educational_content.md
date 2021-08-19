@@ -1,5 +1,5 @@
 ---
-title:  educatinoal_content
+title:  educational_content
 displaytext:  "Educational Content"
 layout:  null
 tab:  true
