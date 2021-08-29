@@ -9,6 +9,8 @@ tags:  diversity
 
 * [An overview of OWASP, by Nancy Gariche](https://www.youtube.com/watch?v=dpaSbSvNJ4Y)
 
+* [“Build an AppSec Program with Open Source Projects” by Vandana Verma (@InfosecVandana)](https://www.youtube.com/watch?v=g4MvyKCLxKE)
+
 * ["OWASP Spotlight - Project 1 - Web Security Testing Guide", by Vandana Verma (@InfosecVandana)](https://infosecvandana.com/post/owstg/)
 
 * ["OWASP Spotlight - Project 2 - Dependency Check", by Vandana Verma (@InfosecVandana)](https://infosecvandana.com/post/dependencycheck/)
