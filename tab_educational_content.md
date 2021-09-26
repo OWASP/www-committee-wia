@@ -81,4 +81,9 @@ tags:  diversity
 
 * [“OWASP Spotlight - Project 19 - OWASP ASVS @OWASP_ASVS" by Daniel Cuthbert @dcuthbert and Vandana Verma @InfosecVandana](https://www.youtube.com/watch?v=3puIavsZfAk)
 
-    - [OWASP Application Security Verification Standards Project page](https://owasp.org/www-project-application-security-verification-standard/)
+    - [OWASP Application Security Verification Standards project page](https://owasp.org/www-project-application-security-verification-standard/)
+
+
+* [“OWASP Spotlight - Project 20 - OWASP Security Pins" by Timo Pagel and Vandana Verma @InfosecVandana](https://www.youtube.com/watch?v=GnSddCV4UwM)
+
+    - [OWASP Security Pins project page](https://owasp.org/www-project-security-pins/)
