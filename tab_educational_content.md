@@ -87,3 +87,7 @@ tags:  diversity
 * [“OWASP Spotlight - Project 20 - OWASP Security Pins" by Timo Pagel and Vandana Verma @InfosecVandana](https://www.youtube.com/watch?v=GnSddCV4UwM)
 
     - [OWASP Security Pins project page](https://owasp.org/www-project-security-pins/)
+
+* ["OWASP Spotlight - Project 21 - OWASP Cyclone Dx" by Steve Springett @stevespringett and Vandana Verma @InfosecVandana](https://youtu.be/qEG6cxwl8os)
+
+    - [OWASP Cyclone Dx project page](https://cyclonedx.org/)
