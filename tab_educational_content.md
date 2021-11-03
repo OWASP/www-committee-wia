@@ -91,3 +91,8 @@ tags:  diversity
 * ["OWASP Spotlight - Project 21 - OWASP Cyclone Dx" by Steve Springett @stevespringett and Vandana Verma @InfosecVandana](https://youtu.be/qEG6cxwl8os)
 
     - [OWASP Cyclone Dx project page](https://cyclonedx.org/)
+
+
+* ["OWASP Spotlight - Project 22 - OWASP Threat Dragon" by Jon Gadsden @jongadsden and Vandana Verma @InfosecVandana](https://www.youtube.com/watch?v=hUOAoc6QGJo)
+
+    - [OWASP Threat Dragon project page](https://owasp.org/www-project-threat-dragon/)
