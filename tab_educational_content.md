@@ -7,6 +7,10 @@ order:  4
 tags:  diversity
 ---
 
+
+## Videos
+
+
 * [An overview of OWASP, by Nancy Gariche](https://www.youtube.com/watch?v=dpaSbSvNJ4Y)
 
 * [“Build an AppSec Program with Open Source Projects” by Vandana Verma (@InfosecVandana)](https://www.youtube.com/watch?v=g4MvyKCLxKE)
@@ -96,3 +100,9 @@ tags:  diversity
 * ["OWASP Spotlight - Project 22 - OWASP Threat Dragon" by Jon Gadsden @jongadsden and Vandana Verma @InfosecVandana](https://www.youtube.com/watch?v=hUOAoc6QGJo)
 
     - [OWASP Threat Dragon project page](https://owasp.org/www-project-threat-dragon/)
+
+
+## Blog Posts
+
+
+["Python for Cyber Security" by Aastha Sahni @aastha1891](https://www.coursereport.com/blog/python-for-cyber-security-with-flatiron-school)
