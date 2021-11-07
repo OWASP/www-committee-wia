@@ -105,4 +105,4 @@ tags:  diversity
 ## Blog Posts
 
 
-["Python for Cyber Security" by Aastha Sahni @aastha1891](https://www.coursereport.com/blog/python-for-cyber-security-with-flatiron-school)
+* ["Python for Cyber Security" by Aastha Sahni @aastha1891](https://www.coursereport.com/blog/python-for-cyber-security-with-flatiron-school)
