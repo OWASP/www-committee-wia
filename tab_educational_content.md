@@ -106,3 +106,6 @@ tags:  diversity
 
 
 * ["Python for Cyber Security" by Aastha Sahni @aastha1891](https://www.coursereport.com/blog/python-for-cyber-security-with-flatiron-school)
+
+* ["TryHackMe - Basic Malware RE Walkthrough" by Shrutirupa Banerjiee @freak_crypt](https://shrutirupa.me/posts/tryhackme-basic_malware_re/)
+
