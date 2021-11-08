@@ -109,3 +109,5 @@ tags:  diversity
 
 * ["TryHackMe - Basic Malware RE Walkthrough" by Shrutirupa Banerjiee @freak_crypt](https://shrutirupa.me/posts/tryhackme-basic_malware_re/)
 
+* [“A Word About Passwords” by Zoe Braiterman @zbraiterman](https://zbraiterman.github.io/diversecurity/a-word-about-passwords.html)
+
