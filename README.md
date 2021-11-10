@@ -4,6 +4,8 @@
 ## Welcome
 
 
+![](/blob/master/assets/images/owasp_dia_logo.png)
+
 Welcome to the OWASP Women in AppSec / Diversity and Inclusion Committee GitHub repository!
 
 This repository hosts information regarding the Committee.
