@@ -4,7 +4,7 @@
 ## Welcome
 
 <p align="center">
-  <img src="./assets/images/owasp_dia_logo.png" width=“45” height=“45”>
+  <img src="./assets/images/owasp_dia_logo.png" width=“20” height=“20”>
 </p>
 
 
