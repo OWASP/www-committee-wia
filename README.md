@@ -3,7 +3,7 @@
 
 ## Welcome
 
-![DIA Logo](/assets/images/owasp_dia_logo.jpg)
+![DIA Logo](./assets/images/owasp_dia_logo.jpg)
 
 
 Welcome to the OWASP Women in AppSec / Diversity and Inclusion Committee GitHub repository!
