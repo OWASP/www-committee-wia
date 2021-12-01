@@ -102,6 +102,12 @@ tags:  diversity
     - [OWASP Threat Dragon project page](https://owasp.org/www-project-threat-dragon/)
 
 
+* ["OWASP Spotlight - Project 23 - OWASP Vulnerable App" by Karan Preet @sasan_karan and Vandana Verma @InfosecVandana](https://www.youtube.com/watch?v=HRRTrnRgMjs)
+
+    - [OWASP VulnerableApp project page](https://owasp.org/www-project-vulnerableapp/)
+
+
+
 ## Blog Posts
 
 
