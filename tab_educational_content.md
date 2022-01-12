@@ -13,6 +13,8 @@ tags:  diversity
 
 * [An overview of OWASP, by Nancy Gariche](https://www.youtube.com/watch?v=dpaSbSvNJ4Y)
 
+* [OWASP Vulnerability Management Guide by Elizabeth Frenz](https://www.youtube.com/watch?v=mGVXYaqmybo)
+
 * [“Build an AppSec Program with Open Source Projects” by Vandana Verma (@InfosecVandana)](https://www.youtube.com/watch?v=g4MvyKCLxKE)
 
 * ["OWASP Spotlight - Project 1 - Web Security Testing Guide", by Vandana Verma (@InfosecVandana)](https://infosecvandana.com/post/owstg/)
