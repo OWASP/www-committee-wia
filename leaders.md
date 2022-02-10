@@ -1,6 +1,6 @@
 ### Leaders
-* [Zoe Braiterman](mailto://zoe.braiterman@owasp.org) (Chair) - New York
-* [Loredana Mancini](mailto://loredana.mancini@owasp.org) (Vice Chair) - Italy
+* [Zoe Braiterman](mailto://zoe.braiterman@owasp.org) - Chair 
+* [Loredana Mancini](mailto://loredana.mancini@owasp.org) - Vice Chair 
 * Secretary - vacant
 <br>
 <br>**Staff Contact**
