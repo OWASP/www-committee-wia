@@ -15,4 +15,6 @@ tags: diversity
 <br>[Saman Fatima](mailto://saman.fatima@owasp.org) - New Delhi, India
 <br>[Shrutirupa Banerjiee](mailto://shrutirupa.banerjiee@owasp.org) - Pune, Maharashtra, India
 <br>[Vandana Verma](mailto://vandana.verma@owasp.org) - India
-<br>
+<br>[Ruchira Pokhriya](mailto://ruchira.pokhriyal@owasp.org)
+<br>Jessica Gottsleben
+
