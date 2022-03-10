@@ -41,7 +41,7 @@ tags:  diversity
 * ["Charting Career Paths in Cybersecurity" by Bishakha Jain @euphoricbint](https://www.youtube.com/watch?v=iOoNokAozQ0)
 * ["Is Blockchain Really Secure?" by Shrutirupa Banerjiee @freak_crypt](https://www.youtube.com/watch?v=6-T05dQt0z8&t=1s)
 * ["Do certain types of developers or teams write more secure code?" by Anita D'Amico @AnitaDamico](https://www.youtube.com/watch?v=kNlwhqDhoCs)
-* ["'Security Through Clarity' and Why Programming Languages and Architecture Matter" by Francois-Rene Rideau @phanero @phanaero](https://www.youtube.com/watch?v=-17WrntpLEA)
+* ["'Security Through Clarity' and Why Programming Languages and Architecture Matter" by Francois-Rene Rideau @phanaero](https://www.youtube.com/watch?v=-17WrntpLEA)
 * [Bishakha Jain @euphoricbint on Burnout](https://www.youtube.com/watch?v=jdW3F_TdkfY&t=182s)
 * ["Building a Curious, Compassionate and Cybersmart World" by Sarba Roy @SarbaRoy_15](https://www.youtube.com/watch?v=rgdmL3WbkVU&t=396s)
 * ["How to be Inclusive for the Deaf Community" by Kellina @cutiekellina, "The Five Philosophies to Building Better l=Logs" by Veronica @Po1Zon_P1x13 and "The Path to Inherently Safer Technology" by Lesley](https://www.youtube.com/watch?v=Z9GrQqo-TlQ&t=16s)
