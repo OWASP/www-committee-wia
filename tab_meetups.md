@@ -44,7 +44,7 @@ tags:  diversity
 * ["'Security Through Clarity' and Why Programming Languages and Architecture Matter" by Francois-Rene Rideau @phanaero](https://www.youtube.com/watch?v=-17WrntpLEA)
 * [Bishakha Jain @euphoricbint on Burnout](https://www.youtube.com/watch?v=jdW3F_TdkfY&t=182s)
 * ["Building a Curious, Compassionate and Cybersmart World" by Sarba Roy @SarbaRoy_15](https://www.youtube.com/watch?v=rgdmL3WbkVU&t=396s)
-* ["How to be Inclusive for the Deaf Community" by Kellina @cutiekellina, "The Five Philosophies to Building Better l=Logs" by Veronica @Po1Zon_P1x13 and "The Path to Inherently Safer Technology" by Lesley](https://www.youtube.com/watch?v=Z9GrQqo-TlQ&t=16s)
+* ["How to be Inclusive for the Deaf Community" by Kellina @cutiekellina, "The Five Philosophies to Building Better Logs" by Veronica @Po1Zon_P1x13 and "The Path to Inherently Safer Technology" by Lesley](https://www.youtube.com/watch?v=Z9GrQqo-TlQ&t=16s)
 * ["Getting Started With PenTesting, Intro to OSINT, Creating a D & I Cyber Security Team" by Deveeshree Nayak](https://www.youtube.com/watch?v=xaNalfK-5kg&t=6s)
 * [Cloud Security by Dr. Abhilasha Vyas](https://www.youtube.com/watch?v=95vP940lTrc)
 * [Diversity discussion with Zoe Braiterman @zbraiterman, Aastha Sahni @aastha1891 and Saman Fatima @saman_3014](https://www.youtube.com/watch?v=RKQZh1tMp0E)
