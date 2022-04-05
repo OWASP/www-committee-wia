@@ -26,8 +26,7 @@ tags:  diversity
   Panelists:  Bjorn Kimminich @bkimmimich Spyros Gasterados @0xfde, Riccardo ten Cate @RiieCco, Glenn ten Cate @FooBar_testing_
   Moderator:  Zoe Braiterman @zbraiterman
   Technical Coordinator:  Katy Anton @KatyAnton
-* [Virtual Job Search and Cyber Threat Hunting](https://www.youtube.com/watch?v=wYp-LZ2dLeg&t=361s)
-  Speakers:   Deidre Diamond @DeidreDiamond and Aastha Sahni @aastha1891
+* [Virtual Job Search and Cyber Threat Hunting by Deidre Diamond @DeidreDiamond and Aastha Sahni @aastha1891](https://www.youtube.com/watch?v=wYp-LZ2dLeg&t=361s)
 * [Cyber Criminology by Deveeshree Nayak and Coordinated Vulnerability Disclosure by Madinah S. Ali](https://www.youtube.com/watch?v=R2_TMLKHNME&feature=youtu.be)
 * [Cybersecurity for Critical Infrastructure by Mariah Possobom](https://www.youtube.com/watch?v=ph7Ehot8Xuo&feature=youtu.be)
 * [IAM - "What, Why, Where?", by Saman Fatima (@saman_3014)](https://www.youtube.com/watch?v=lxUkwmXI578&feature=youtu.be)
