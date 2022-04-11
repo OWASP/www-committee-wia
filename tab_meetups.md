@@ -47,6 +47,8 @@ tags:  diversity
 * ["Getting Started With PenTesting, Intro to OSINT, Creating a D & I Cyber Security Team" by Deveeshree Nayak](https://www.youtube.com/watch?v=xaNalfK-5kg&t=6s)
 * [Cloud Security by Dr. Abhilasha Vyas](https://www.youtube.com/watch?v=95vP940lTrc)
 * [Diversity discussion with Zoe Braiterman @zbraiterman, Aastha Sahni @aastha1891 and Saman Fatima @saman_3014](https://www.youtube.com/watch?v=RKQZh1tMp0E)
+* [Zoe Braiterman @zbraiterman interviews Chloe Messdaghi @ChloeMessdaghi](https://www.youtube.com/watch?v=52bbdfeMzag)
+* [Zoe Braiterman @zbraiterman interviews Bishakha Jain @euphoricbint](https://www.youtube.com/watch?v=c-3nuTX8L-I)
 * [Neurodiversity Workshop - led by Ruchira @Silver_Banshee1, moderated by Zoe Braiterman @zbraiterman](https://www.meetup.com/womeninappsec/events/284430347/)
 
 
