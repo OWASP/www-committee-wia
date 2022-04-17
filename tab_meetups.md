@@ -49,7 +49,7 @@ tags:  diversity
 * [Diversity discussion with Zoe Braiterman @zbraiterman, Aastha Sahni @aastha1891 and Saman Fatima @saman_3014](https://www.youtube.com/watch?v=RKQZh1tMp0E)
 * [Zoe Braiterman @zbraiterman interviews Chloe Messdaghi @ChloeMessdaghi](https://www.youtube.com/watch?v=52bbdfeMzag)
 * [Zoe Braiterman @zbraiterman interviews Bishakha Jain @euphoricbint](https://www.youtube.com/watch?v=c-3nuTX8L-I)
-* [Neurodiversity Workshop - led by Ruchira @Silver_Banshee1, moderated by Zoe Braiterman @zbraiterman](https://www.meetup.com/womeninappsec/events/284430347/)
+* [Neurodiversity Workshop - led by Ruchira @Silver_Banshee1](https://docs.google.com/document/d/1ZRccBiSVDS-o-ali__GhyJn1Tw1ZHstL)
 
 
 ## In Person Events
