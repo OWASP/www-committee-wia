@@ -119,3 +119,9 @@ tags:  diversity
 
 * [“A Word About Passwords” by Zoe Braiterman @zbraiterman](https://zbraiterman.github.io/diversecurity/a-word-about-passwords.html)
 
+
+
+## Diversity Content
+
+* ["" by Ruchira Pokhriyal @Silver_Banshee1]()
+
