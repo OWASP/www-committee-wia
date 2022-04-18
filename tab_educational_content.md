@@ -123,5 +123,5 @@ tags:  diversity
 
 ## Diversity Content
 
-* ["" by Ruchira Pokhriyal @Silver_Banshee1]()
+* ["Neurodiversity Workshop-Celebrating our unique strengths & Differences" by Ruchira Pokhriyal @Silver_Banshee1](https://docs.google.com/document/d/1ZRccBiSVDS-o-ali__GhyJn1Tw1ZHstL)
 
