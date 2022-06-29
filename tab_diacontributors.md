@@ -17,4 +17,5 @@ tags: diversity
 <br>[Vandana Verma](mailto://vandana.verma@owasp.org) - India
 <br>[Ruchira Pokhriya](mailto://ruchira.pokhriyal@owasp.org)
 <br>Jessica Gottsleben
+<br>Sal Kimmich
 
