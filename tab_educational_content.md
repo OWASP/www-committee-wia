@@ -107,7 +107,8 @@ tags:  diversity
 * ["OWASP Spotlight - Project 23 - OWASP Vulnerable App" by Karan Preet @sasan_karan and Vandana Verma @InfosecVandana](https://www.youtube.com/watch?v=HRRTrnRgMjs)
 
     - [OWASP VulnerableApp project page](https://owasp.org/www-project-vulnerableapp/)
-
+    
+* [Sam Stepanyan @securestep9 and Zoe Braiterman @zbraiterman discuss OWASP Chapters Committee and the OWASP Nettacker Project](https://www.youtube.com/watch?v=D4ZGnIH5Vns) 
 
 
 ## Blog Posts
