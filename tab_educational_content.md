@@ -107,6 +107,13 @@ tags:  diversity
 * ["OWASP Spotlight - Project 23 - OWASP Vulnerable App" by Karan Preet @sasan_karan and Vandana Verma @InfosecVandana](https://www.youtube.com/watch?v=HRRTrnRgMjs)
 
     - [OWASP VulnerableApp project page](https://owasp.org/www-project-vulnerableapp/)
+
+* ["OWASP Spotlight - Project 24 - OWASP Security Headers Project" by Dominique Righetto @righettod and Vandana Verma @InfosecVandana](https://www.youtube.com/watch?v=N4F3VWQYU9E)
+
+    - [OWASP Security Headers project page](https://owasp.org/www-project-secure-headers/)
+
+* ["OWASP Spotlight - Project 25 - OWASP Juice Shop" by Bjoern Kimminich @bkimminich and Vandana Verma @InfosecVandana](https://www.youtube.com/watch?v=--50rE76EeA)
+    - [OWASP Juice Shop project page](https://owasp.org/www-project-juice-shop/)
     
 * [Sam Stepanyan @securestep9 and Zoe Braiterman @zbraiterman discuss OWASP Chapters Committee and the OWASP Nettacker Project](https://www.youtube.com/watch?v=D4ZGnIH5Vns) 
 
