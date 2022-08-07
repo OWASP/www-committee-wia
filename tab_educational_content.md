@@ -13,6 +13,8 @@ tags:  diversity
 
 * [An overview of OWASP, by Nancy Gariche](https://www.youtube.com/watch?v=dpaSbSvNJ4Y)
 
+* [OWASP Wayfinder by Spyros Gasteratos @0xfde](https://github.com/northdpole/owaspwayfinder)
+
 * [OWASP Vulnerability Management Guide by Elizabeth Frenz](https://www.youtube.com/watch?v=mGVXYaqmybo)
 
 * [“Build an AppSec Program with Open Source Projects” by Vandana Verma (@InfosecVandana)](https://www.youtube.com/watch?v=g4MvyKCLxKE)
