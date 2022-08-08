@@ -13,7 +13,7 @@ tags:  diversity
 
 * [An overview of OWASP, by Nancy Gariche](https://www.youtube.com/watch?v=dpaSbSvNJ4Y)
 
-* [OWASP Wayfinder by Spyros Gasteratos @0xfde](https://github.com/northdpole/owaspwayfinder)
+* [OWASP Wayfinder by Spyros Gasteratos @0xfde - an effort by the opencre.org team aimed at providing a flexible way for navigating OWASP projects](https://github.com/northdpole/owaspwayfinder)
 
 * [OWASP Vulnerability Management Guide by Elizabeth Frenz](https://www.youtube.com/watch?v=mGVXYaqmybo)
 
