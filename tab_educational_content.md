@@ -129,6 +129,8 @@ tags:  diversity
 
 * [“A Word About Passwords” by Zoe Braiterman @zbraiterman](https://zbraiterman.github.io/diversecurity/a-word-about-passwords.html)
 
+* ["Can Masking Metadata Boost Open Source Security, Diversity?" - insight by Sal Kimmich @Kimmich_Compute](https://thenewstack.io/can-masking-metadata-boost-open-source-security-diversity/)
+
 
 
 ## Diversity Content
