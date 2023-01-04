@@ -49,7 +49,8 @@ tags:  diversity
 * [Diversity discussion with Zoe Braiterman @zbraiterman, Aastha Sahni @aastha1891 and Saman Fatima @saman_3014](https://www.youtube.com/watch?v=RKQZh1tMp0E)
 * [Zoe Braiterman @zbraiterman interviews Chloe Messdaghi @ChloeMessdaghi](https://www.youtube.com/watch?v=52bbdfeMzag)
 * [Zoe Braiterman @zbraiterman interviews Bishakha Jain @euphoricbint](https://www.youtube.com/watch?v=c-3nuTX8L-I)
-* [Neurodiversity Workshop - led by Ruchira @Silver_Banshee1]()
+* Neurodiversity Workshop - led by Ruchira @Silver_Banshee1
+* [OWASP Vulnerability Management Guide inaugural working group meeting, by Elizabeth Frenz, Theresa Mammarella @t_mammarella and Zoe Braiterman @zbraiterman](https://www.meetup.com/womeninappsec/events/290584147)
 
 
 ## In Person Events
