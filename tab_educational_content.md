@@ -115,7 +115,12 @@ tags:  diversity
     - [OWASP Security Headers project page](https://owasp.org/www-project-secure-headers/)
 
 * ["OWASP Spotlight - Project 25 - OWASP Juice Shop" by Bjoern Kimminich @bkimminich and Vandana Verma @InfosecVandana](https://www.youtube.com/watch?v=--50rE76EeA)
+
     - [OWASP Juice Shop project page](https://owasp.org/www-project-juice-shop/)
+
+* ["OWASP Spotlight - Project 26 - OWASP SamuraiWTF" by Kevin Johnson and Vandana Verma @InfosecVandana](https://www.youtube.com/watch?v=PBWUlx_kJmI)
+
+    - [OWASP SamuraiWTF page](https://owasp.org/www-project-samuraiwtf/)
     
 * [Sam Stepanyan @securestep9 and Zoe Braiterman @zbraiterman discuss OWASP Chapters Committee and the OWASP Nettacker Project](https://www.youtube.com/watch?v=D4ZGnIH5Vns) 
 
