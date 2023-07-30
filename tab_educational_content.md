@@ -120,7 +120,11 @@ tags:  diversity
 
 * ["OWASP Spotlight - Project 26 - OWASP SamuraiWTF" by Kevin Johnson and Vandana Verma @InfosecVandana](https://www.youtube.com/watch?v=PBWUlx_kJmI)
 
-    - [OWASP SamuraiWTF page](https://owasp.org/www-project-samuraiwtf/)
+    - [OWASP SamuraiWTF project page](https://owasp.org/www-project-samuraiwtf/)
+ 
+* ["OWASP Spotlight - Project 27 - OWASP LLM" by Steve Wilson @virtualsteve and Vandana Verma @InfosecVandana](https://www.youtube.com/watch?v=MCbE4Gk5mmk)
+
+  - [OWASP Top 10 for Large Language Model Applications project page](https://owasp.org/www-project-top-10-for-large-language-model-applications/)
     
 * [Sam Stepanyan @securestep9 and Zoe Braiterman @zbraiterman discuss OWASP Chapters Committee and the OWASP Nettacker Project](https://www.youtube.com/watch?v=D4ZGnIH5Vns) 
 
