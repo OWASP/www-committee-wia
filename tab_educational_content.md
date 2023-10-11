@@ -125,6 +125,8 @@ tags:  diversity
 * ["OWASP Spotlight - Project 27 - OWASP LLM" by Steve Wilson @virtualsteve and Vandana Verma @InfosecVandana](https://www.youtube.com/watch?v=MCbE4Gk5mmk)
 
   - [OWASP Top 10 for Large Language Model Applications project page](https://owasp.org/www-project-top-10-for-large-language-model-applications/)
+ 
+* ["OWASP Spotlight - Project 29 - OWASP Domain Protect" by Paul Schwarzenberg and Vandana Verma @InfosecVandana](https://www.youtube.com/watch?v=KoP1X1Dyz9o)
     
 * [Sam Stepanyan @securestep9 and Zoe Braiterman @zbraiterman discuss OWASP Chapters Committee and the OWASP Nettacker Project](https://www.youtube.com/watch?v=D4ZGnIH5Vns) 
 
