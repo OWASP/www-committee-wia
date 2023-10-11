@@ -127,8 +127,11 @@ tags:  diversity
   - [OWASP Top 10 for Large Language Model Applications project page](https://owasp.org/www-project-top-10-for-large-language-model-applications/)
  
 * ["OWASP Spotlight - Project 28 - OpenCRE" by Spyos Gasterados @0xfde, Rob van der Veer @robvanderveer and Vandana Verma @InfosecVandana](https://www.youtube.com/watch?v=TwNroVARmB0)
+
+    - [OpenCRE project page](https://owasp.org/www-project-integration-standards/)
  
 * ["OWASP Spotlight - Project 29 - OWASP Domain Protect" by Paul Schwarzenberg and Vandana Verma @InfosecVandana](https://www.youtube.com/watch?v=KoP1X1Dyz9o)
+    - [OWASP Domain Project project page](https://owasp.org/www-project-domain-protect/)
     
 * [Sam Stepanyan @securestep9 and Zoe Braiterman @zbraiterman discuss OWASP Chapters Committee and the OWASP Nettacker Project](https://www.youtube.com/watch?v=D4ZGnIH5Vns) 
 
